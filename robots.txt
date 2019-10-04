@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeheeleing.bitsoftly.com/sitemap.xml
